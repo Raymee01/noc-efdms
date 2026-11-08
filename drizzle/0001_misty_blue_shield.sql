@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `version_number_unique` ON `versions` (`document`,`number`);

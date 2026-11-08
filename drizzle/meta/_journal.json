@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792925299423,
+      "tag": "0000_ambiguous_angel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792925716372,
+      "tag": "0001_misty_blue_shield",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792925959270,
+      "tag": "0002_integrity_guards",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+[
+  {
+    "id": "international",
+    "name": "International Sporting Bodies",
+    "parent": null
+  },
+  {
+    "id": "national",
+    "name": "National Sport Federations",
+    "parent": null
+  },
+  {
+    "id": "administration",
+    "name": "Administration",
+    "parent": null
+  },
+  {
+    "id": "intl-1",
+    "name": "International Olympic Committee (IOC)",
+    "parent": "international"
+  },
+  {
+    "id": "intl-2",
+    "name": "Commonwealth Sport",
+    "parent": "international"
+  },
+  {
+    "id": "intl-3",
+    "name": "Association of National Olympic Committees of Africa (ANOCA)",
+    "parent": "international"
+  },
+  {
+    "id": "intl-4",
+    "name": "International Sports Federations",
+    "parent": "international"
+  },
+  {
+    "id": "intl-5",
+    "name": "African Sports Organizations",
+    "parent": "international"
+  },
+  {
+    "id": "intl-6",
+    "name": "International Games and Competitions",
+    "parent": "international"
+  },
+  {
+    "id": "intl-7",
+    "name": "International Partnerships and Agreements",
+    "parent": "international"
+  },
+  {
+    "id": "intl-8",
+    "name": "International Correspondence",
+    "parent": "international"
+  },
+  {
+    "id": "intl-9",
+    "name": "International Meetings and Reports",
+    "parent": "international"
+  },
+  {
+    "id": "intl-10",
+    "name": "Other International Organizations",
+    "parent": "international"
+  },
+  {
+    "id": "olympic",
+    "name": "Olympic Sports Federations",
+    "parent": "national"
+  },
+  {
+    "id": "olympic-1",
+    "name": "Athletics Federation of Nigeria (AFN)",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-2",
+    "name": "Nigeria Badminton Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-3",
+    "name": "Nigeria Basketball Federation (NBBF)",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-4",
+    "name": "Nigeria Amateur Boxing Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-5",
+    "name": "Nigeria Cycling Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-6",
+    "name": "Nigeria Fencing Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-7",
+    "name": "Nigeria Football Federation (NFF)",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-8",
+    "name": "Nigeria Golf Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-9",
+    "name": "Nigeria Gymnastics Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-10",
+    "name": "Nigeria Handball Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-11",
+    "name": "Nigeria Hockey Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-12",
+    "name": "Nigeria Judo Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-13",
+    "name": "Nigeria Modern Pentathlon Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-14",
+    "name": "Nigeria Rowing, Canoeing and Sailing Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-15",
+    "name": "Nigeria Rugby Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-16",
+    "name": "Nigeria Shooting Sport Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-17",
+    "name": "Nigeria Table Tennis Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-18",
+    "name": "Nigeria Taekwondo Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-19",
+    "name": "Nigeria Tennis Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-20",
+    "name": "Nigeria Triathlon Union",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-21",
+    "name": "Nigeria Volleyball Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-22",
+    "name": "Nigeria Weightlifting Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-23",
+    "name": "Nigeria Wrestling Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-24",
+    "name": "Nigeria Archery Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "olympic-25",
+    "name": "Nigeria Aquatics Federation",
+    "parent": "olympic"
+  },
+  {
+    "id": "non-olympic",
+    "name": "Non-Olympic Sports Federations",
+    "parent": "national"
+  },
+  {
+    "id": "non-olympic-1",
+    "name": "Nigeria Baseball and Softball Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-2",
+    "name": "Nigeria Bowling Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-3",
+    "name": "Nigeria Chess Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-4",
+    "name": "Nigeria Cricket Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-5",
+    "name": "Deaf Sport Federation of Nigeria",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-6",
+    "name": "Nigeria Karate Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-7",
+    "name": "Nigeria Netball Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-8",
+    "name": "Nigeria Polo Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-9",
+    "name": "Nigeria Scrabble Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-10",
+    "name": "Nigeria Fives Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-11",
+    "name": "Nigeria Squash Rackets Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-12",
+    "name": "Nigeria Wushu Kunfu Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-13",
+    "name": "Nigeria Traditional Sports Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-14",
+    "name": "Nigeria Water Ski Federation",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "non-olympic-15",
+    "name": "Tug of War Sport Federation of Nigeria",
+    "parent": "non-olympic"
+  },
+  {
+    "id": "recognized",
+    "name": "Other Recognized National Federations and Bodies",
+    "parent": "national"
+  },
+  {
+    "id": "recognized-1",
+    "name": "Nigeria Arm Wrestling Federation",
+    "parent": "recognized"
+  },
+  {
+    "id": "recognized-2",
+    "name": "Nigeria Padel Federation",
+    "parent": "recognized"
+  },
+  {
+    "id": "recognized-3",
+    "name": "Bobsled & Skeleton Federation of Nigeria",
+    "parent": "recognized"
+  },
+  {
+    "id": "recognized-4",
+    "name": "Nigerian Boxing Board of Control (NBBofC)",
+    "parent": "recognized"
+  },
+  {
+    "id": "admin-1",
+    "name": "Office of the President",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-2",
+    "name": "Office of the Secretary General",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-3",
+    "name": "Board and Executive Management",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-4",
+    "name": "Human Resources and Personnel",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-5",
+    "name": "Finance and Accounting",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-6",
+    "name": "Procurement and Contracts",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-7",
+    "name": "Legal Affairs and Compliance",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-8",
+    "name": "Information Technology",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-9",
+    "name": "Internal Memoranda",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-10",
+    "name": "Incoming Correspondence",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-11",
+    "name": "Outgoing Correspondence",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-12",
+    "name": "Meetings and Minutes",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-13",
+    "name": "Policies and Procedures",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-14",
+    "name": "Projects and Workplans",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-15",
+    "name": "Reports and Publications",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-16",
+    "name": "Travel and Logistics",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-17",
+    "name": "Facilities and Assets",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-18",
+    "name": "Historical Administrative Records",
+    "parent": "administration"
+  },
+  {
+    "id": "admin-19",
+    "name": "Other Administrative Documents",
+    "parent": "administration"
+  }
+]
